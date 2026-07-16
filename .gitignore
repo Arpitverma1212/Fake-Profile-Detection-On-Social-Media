@@ -1,0 +1,5 @@
+backend/venv/
+__pycache__/
+*.pyc
+*.zip
+Frontend/media/video.mp4
